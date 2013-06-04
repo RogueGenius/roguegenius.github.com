@@ -4,7 +4,7 @@ comments: true
 date: 2011-06-02 06:27:53+00:00
 layout: post
 slug: webby-award-highlights-rogue-genius-team-members-work
-title: Webby Award Highlights Rogue Genius Team Members’ Work
+title: Webby Award Highlights Rogue Genius Team's Work
 categories:
 - Awards
 ---

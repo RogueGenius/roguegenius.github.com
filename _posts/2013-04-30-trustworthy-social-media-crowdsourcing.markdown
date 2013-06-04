@@ -3,7 +3,7 @@ author: george
 date: 2013-04-30 14:54:48+00:00
 layout: post
 slug: trustworthy-social-media-crowdsourcing
-title: 'Policy Memo:  Towards Trustworthy Social Media And Crowdsourcing'
+title: 'Towards Trustworthy Social Media And Crowdsourcing'
 categories:
 - Papers
 ---
