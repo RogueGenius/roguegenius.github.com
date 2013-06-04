@@ -9,9 +9,7 @@ categories:
 - Press
 page.video_url: http://www.youtube.com/embed/fyY9tb8Rvlk
 ---
-
-
-{% vimeo id:13350693 %}
+<iframe width="800" height="450" src="http://player.vimeo.com/video/13350693" frameborder="0">unwanted text</iframe>
 
 Rogue Genius team member George Chamales was interviewed by the Bay Citizen following his work on tracking a night of riots in Oakland.
 

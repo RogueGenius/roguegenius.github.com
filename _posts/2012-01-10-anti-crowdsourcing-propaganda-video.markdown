@@ -9,7 +9,7 @@ categories:
 ---
 
 <div id="post_img" style="border:none;background-color:black;">
-{% youtube Xgu38tM47XY %}
+<iframe width="560" height="420" src="http://www.youtube.com/embed/Xgu38tM47XY?color=white&amp;theme=light">...</iframe>
 </div>
 
 A video apparently demonstrating a number of attacks against crowdsourcing has been posted online.  The video uses an attractive Russian woman who:

@@ -9,7 +9,7 @@ categories:
 ---
 
 <div id="post_img" style="border:none;background-color:black;">
-{% youtube d1OYh58glEY %}
+<iframe width="560" height="420" src="http://www.youtube.com/embed/d1OYh58glEY?color=white&amp;theme=light">...</iframe>
 </div>
 
 Team member George Chamales recently presented at the FCC's 2nd Field Hearing on Network Resilience and Reliability.  The hearing included a panel discussion led by FCC Chairman Julius Genachowski along with FCC Commissioners Robert McDowell, Ajit Pai and Jessica Rosenworcel.  The discussion centered on how new technology can enable more effective disaster response and how that technology is expected to evolve in the coming years.

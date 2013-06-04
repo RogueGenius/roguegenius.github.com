@@ -9,7 +9,7 @@ categories:
 ---
 
 <div id="post_img" style="border:none;background-color:black;">
-{% youtube YsDMaBoXrJk %}
+<iframe width="560" height="420" src="http://www.youtube.com/embed/YsDMaBoXrJk?color=white&amp;theme=light">...</iframe>
 </div>
 
 Team member George Chamales' presentation at the [2011 Defcon Security Conference](https://www.defcon.org/html/defcon-19/dc-19-index.html) has been posted on YouTube.  The recording was made in August of last year before a number of crisis mapping security incidents had taken place.  With that in mind, it is fascinating to observe the potential attacks that George discusses.  

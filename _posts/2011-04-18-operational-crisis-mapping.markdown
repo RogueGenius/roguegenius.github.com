@@ -8,7 +8,7 @@ categories:
 - Presentations
 ---
 <div id="post_img" style="border:none;background-color:black;">
-{% youtube mJNpgOfhZAs %}
+<iframe width="560" height="420" src="http://www.youtube.com/embed/mJNpgOfhZAs?color=white&amp;theme=light">...</iframe>
 </div>
 
 Rogue Genius team member George Chamales' video was accepted to the [UC Berkeley Human Rights Center's](http://www.law.berkeley.edu/HRCweb/events/TechConference2011/index.html) Dream Meets Reality Challenge.  The presentation at the conference give him the chance to discuss some new approaches to crisis mapping with an experienced panel of humanitarian and technology entrepreneurs.
