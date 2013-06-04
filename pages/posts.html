@@ -1,0 +1,27 @@
+---
+layout: page
+title : Posts
+header : Posts
+group: navigation
+---
+{% include JB/setup %}
+{% assign count = '0' %}
+{% for post in site.posts %}
+<div class="page-header" style="broder-bottom: 1px solid white; border-top:1px solid white;">
+
+{% if count == '10' %}
+  <a name="10" style="padding-top:130px;color:black;z-index:1000">.</a>
+  {% else %}
+  {% capture count %}{{ count | plus: '1' }}{% endcapture %}
+  {% endif %}
+  <a href="{{ post.url }}" style="color:white"><h1>{{ post.title }}</h1></a>
+  {{ post.date | date: "%B %d, %Y" }}
+</div>
+
+<div class="row" style="margin-bottom:30px">
+  <div class="span10">
+    {{ post.content }}
+ </div>
+</div> 
+ 
+  {% endfor %}

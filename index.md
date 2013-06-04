@@ -1,46 +1,21 @@
 ---
-layout: page
-title: Hello World!
-tagline: Supporting tagline
+layout: frontpage
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+{% for post in site.posts limit:10 %}
+<div class="page-header" style="broder-bottom: 1px solid white; border-top:1px solid white;">
+  <a href="{{ post.url }}" style="color:white"><h1>{{ post.title }}</h1></a>
+  {{ post.date | date: "%B %d, %Y" }}
+</div>
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
-
-## Update Author Attributes
-
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
-
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
-
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
-
-    $ rm -rf _posts/core-samples
-
-Here's a sample "posts list".
-
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
-
-## To-Do
-
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
-
-
+<div class="row" style="margin-bottom:30px">
+  <div class="span10">
+    {{ post.content }}
+  </div>
+</div> 
+{% endfor %}
+<a href="/pages/posts.html#10" style="text-decoration:none">
+<div style="color:white; padding:10px; width: 120px; border:1px solid white; background-color: grey;">
+&lt;&lt; Previous Posts
+</div></a>
