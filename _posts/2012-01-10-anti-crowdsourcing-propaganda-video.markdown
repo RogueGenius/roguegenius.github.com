@@ -8,7 +8,7 @@ categories:
 - Press
 ---
 
-<div id="post_img" style="border:none;background-color:black;">
+<div id="post_img" style="border:none;background-color:black;width:590px;">
 <iframe width="560" height="420" src="http://www.youtube.com/embed/Xgu38tM47XY?color=white&amp;theme=light">...</iframe>
 </div>
 

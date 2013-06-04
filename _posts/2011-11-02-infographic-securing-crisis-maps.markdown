@@ -9,7 +9,7 @@ categories:
 ---
 <div id="post_img" style="width:800px">
 <a href="/files/Securing_Crisis_Maps_Infographic.pdf"><img src="/images/posts/Crisismap-Infographic.jpg" width="780"></a>
-Click image to download the high-resolution pdf
+Click the image to download the high-resolution pdf
 </div>
 
 Team members Rob Baker and George Chamales are happy to release the above infographic which depicts a number of the security challenges that crisis mapping deployments have faced over the last two years.

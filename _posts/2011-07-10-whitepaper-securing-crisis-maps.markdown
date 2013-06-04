@@ -9,9 +9,9 @@ categories:
 - Press
 ---
 
-<div id="post_img" style="width:299px">
-<a href="/files/Lives-on-the-Line-Chamales.pdf"><img src="/images/posts/lives_on_line_image.jpg" width="289" height="377"></a>
-Click image to download whitepaper.
+<div id="post_img" style="width:399px">
+<a href="/files/Lives-on-the-Line-Chamales.pdf"><img src="/images/posts/lives_on_line_image.png" width="389"></a>
+Click the image to download the whitepaper.
 </div>
 
 The following short whitepaper, “Lives on the Line:  Securing Crisis Maps in Libya, Sudan, and Pakistan” was submitted as part of Rogue Genius team member George Chamales’ presentation to the Blackhat security conference.  From the introduction to the paper:

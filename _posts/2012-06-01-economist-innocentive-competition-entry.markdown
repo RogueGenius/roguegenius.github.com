@@ -9,8 +9,8 @@ categories:
 ---
 
 <div id="post_img" style="width:430px">
-<a href="/files/Fishers_of_Data-Rogue_Genius.pdf"><img src="/images/posts/innocentive-image.jpg" width="420">
-Click here to download the full paper</a>
+<a href="/files/Fishers_of_Data-Rogue_Genius.pdf"><img src="/images/posts/innocentive-image.jpg" width="420"></a>
+Click the image to download the full paper
 </div>
 
 Team member George Chamales recently submitted an entry to the Economist Magazine’s Innovation Competition. The paper describes the work done over the last several years on various projects including the Haiti Cholera Epidemic, Afghanistan Wells tracking, and American Red Cross Disaster services logistics.
