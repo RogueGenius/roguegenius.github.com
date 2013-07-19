@@ -75,6 +75,5 @@ for (var x in locations){
 	var myMarkerLatLng = new CM.LatLng(entry.lat,entry.lon);
 	var myMarker = new CM.Marker(myMarkerLatLng, { }); 
 	map.addOverlay(myMarker);
-	href_modifier = '<' + 'a' + ' href' + '=\"' + "pages/projects.html#"
-	myMarker.bindInfoWindow(href_modifier + entry.link + "\"><b>" + entry.title + "</b></a><br />" + entry.msg);
+	myMarker.bindInfoWindow('<u><b>' + entry.title + "</b></u><br />" + entry.msg);
 }
