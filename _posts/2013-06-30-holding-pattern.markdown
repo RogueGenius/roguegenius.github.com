@@ -1,6 +1,6 @@
 ---
 author: george
-date: 2013-06-30 12:00:00+00:00
+date: 2013-08-30 12:00:00+00:00
 layout: post
 slug: holding-pattern
 title: 'Focusing on Long-Term Projects'
