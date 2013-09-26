@@ -3,9 +3,9 @@ author: george
 date: 2013-08-30 12:00:00+00:00
 layout: post
 slug: holding-pattern
-title: Focusing on Long-Term Projects
+title: Focusing on Long Term Projects
 categories:
-- Papers
+- Press
 ---
 <div style="padding-bottom:10px">
 <img src="/images/posts/RogueTestPattern.png" width="800">
